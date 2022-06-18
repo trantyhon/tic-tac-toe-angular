@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tictactoe-7ea9d": {
+      "hosting": {
+        "tttoe": [
+          "tictactoe-7ea9d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tictactoe-7ea9d"
+  }
+}
